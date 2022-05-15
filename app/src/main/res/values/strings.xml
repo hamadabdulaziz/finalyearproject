@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Help me</string>
+    <string name="title_activity_share_location">ShareLocation</string>
+</resources>
